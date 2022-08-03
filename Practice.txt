@@ -1,1 +1,8 @@
 Adding changes in remote repository
+
+
+*************************************
+
+Changes made in local repository
+
+*************************************
